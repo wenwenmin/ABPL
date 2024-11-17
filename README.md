@@ -9,15 +9,18 @@ The advantages of our method compared to previous approaches include:
 We evaluate our method by applying it to solve the $\ell_0$-norm constrained multi-layer non-negative matrix factorization and sparse nonnegative CP decomposition problems, which are known to be NP-hard in general. 
 Numerical results demonstrate that our method outperforms state-of-the-art algorithms, highlighting its effectiveness and potential for broader applications. 
 
-This package contains code for the sparse multiple non-negative matrix factorization with $\ell_0$-constraints ($\ell_0$-smNMF) problem and the sparse non-negative CP tensor decomposition with $\ell_0$-constraints ($\ell_0$-SNCP) problem in the paper[<sup>1</sup>](#refer-id).  "L0smNMF" is the sparse multiple non-negative matrix factorization with $\ell_0$-constraints ($\ell_0$-smNMF) function, and "L0SNCP" is the sparse non-negative CP tensor decomposition with $\ell_0$-constraints ($\ell_0$-SNCP) function. 
+This package contains code for the sparse multiple non-negative matrix factorization with $\ell_0$-constraints ($\ell_0$-smNMF) problem and the sparse non-negative CP tensor decomposition with $\ell_0$-constraints ($\ell_0$-SNCP) problem in the paper[<sup>1</sup>](#refer-id).  
 
 ## Code
+"L0smNMF" is the sparse multiple non-negative matrix factorization with $\ell_0$-constraints ($\ell_0$-smNMF) function, and "L0SNCP" is the sparse non-negative CP tensor decomposition with $\ell_0$-constraints ($\ell_0$-SNCP) function. 
+
+## How tu run our code (Running demo)
 A toy example explains how to use the these function. For "L0smNMF", just run the function 'main_Run_me' . 
 
 For "L0SNCP", before running it, first add the toolbox 'tensortoolbox'[<sup>2</sup>](#refer-id) (www.tensortoolbox.org) to the running path of matlab, and then run the function 'main_Run_me'. 
 
-## Data
-This code has built-in the data mentioned in our paper[<sup>1</sup>](#refer-id). 
+## Data and Data preprocessing
+This code has built-in the data mentioned in our paper[<sup>1</sup>](#refer-id), and the preprocessing code segment is embedded in our code.
 
 ## Reference
 <div id="refer-id"></div>
