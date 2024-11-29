@@ -1,6 +1,6 @@
 ## Introduction
 This paper considers a class of multi-block nonconvex nonsmooth optimization problems, and this class of problems covers many applications of signal processing and machine learning applications. 
-We propose an accelerated block proximal linear method with adaptive momentum (ABPL$^+$) to effectively tackle these challenges.
+We propose an accelerated block proximal linear method with adaptive momentum (ABPL+) to effectively tackle these challenges.
 The method evaluates both a proximal gradient step and a linear extrapolation step for updating each block of variables, opting for the one with the lower function value to maintain a monotonic decrease.
 The advantages of our method compared to previous approaches include: 
 (1) allowing the extrapolation parameter to be independent of other parameters while utilizing an adaptive extrapolation parameter strategy, thereby improving stability and enhancing acceleration;
