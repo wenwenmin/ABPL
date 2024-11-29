@@ -19,11 +19,17 @@ A toy example explains how to use the these function. For "L0smNMF", just run th
 
 For "L0SNCP", before running it, first add the toolbox 'tensortoolbox'[<sup>2</sup>](#refer-id) (www.tensortoolbox.org) to the running path of matlab, and then run the function '[main_Run_me.m](L0SNCP/main_Run_me.m)'. 
 
+Brett W. Bader and Tamara G. Kolda. 2006. Algorithm 862: MATLAB tensor classes for fast algorithm prototyping. ACM Trans. Math. Softw. 32, 4 (December 2006), 635–653. https://doi.org/10.1145/1186785.1186794
+
 ## Data and Data preprocessing
 This code has built-in the data mentioned in our paper[<sup>1</sup>](#refer-id), and the preprocessing code segment is embedded in our code.
 
-## Reference
-<div id="refer-id"></div>
-[1] Globally Convergent Accelerated Block Proximal Method with Adaptive Momentum for Nonconvex Optimization. 
+## Contact details
 
-[2] Brett W. Bader and Tamara G. Kolda. 2006. Algorithm 862: MATLAB tensor classes for fast algorithm prototyping. ACM Trans. Math. Softw. 32, 4 (December 2006), 635–653. https://doi.org/10.1145/1186785.1186794
+If you have any questions, please contact WeifengYang.Ywf@gmail.com and minwenwen@ynu.edu.cn
+
+## Citing
+<div id="refer-id"></div>
+[1] Globally Convergent Accelerated Block Proximal Method with Adaptive Momentum for Nonconvex Optimization. Submitted to TNNLS2024
+
+
