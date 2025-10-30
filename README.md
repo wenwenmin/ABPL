@@ -30,6 +30,6 @@ If you have any questions, please contact WeifengYang.Ywf@gmail.com and minwenwe
 
 ## Citing
 <div id="refer-id"></div>
-[1] Globally Convergent Accelerated Block Proximal Method with Adaptive Momentum for Nonconvex Optimization. Submitted to TNNLS2024
+Globally Convergent Accelerated Block Proximal Method with Adaptive Momentum for Nonconvex Optimization
 
 
